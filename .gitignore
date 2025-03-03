@@ -1,7 +1,8 @@
-# Environment
+# Environment variable and configuration
 .env
 venv/
 env/
+config/config.py
 
 # Python
 __pycache__/
@@ -30,3 +31,7 @@ build/
 .idea/
 .vscode/
 *.swp
+
+# Data files
+data/*.csv
+data/*.json
