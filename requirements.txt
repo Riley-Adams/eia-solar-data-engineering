@@ -1,0 +1,15 @@
+# API and HTTP requests
+requests==2.32.3
+
+# Data processing
+pandas==2.2.3
+numpy==2.2.3
+
+# Database connection
+psycopg2==2.9.10
+
+# Environment and configuration
+python-dotenv==1.0.1
+
+# Date handling
+python-dateutil==2.9.0.post0
